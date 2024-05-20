@@ -1,0 +1,24 @@
+## Tasks Overview
+
+This repository contains multiple tasks aimed at familiarizing myself with Git and GitHub. Here's a brief overview of each task:
+
+1. **Cloning and Forking**: 
+   - Cloning a public GitHub repository to my local machine.
+   - Forking the same repository to my GitHub account.
+
+2. **Managing Branches**:
+   - Creating and switching branches.
+   - Making changes and committing them to branches.
+   - Merging changes between branches.
+
+3. **Handling Conflicts**:
+   - Creating and resolving conflicts in Git.
+   - Learning conflict resolution strategies.
+
+4. **GitHub Pages**:
+   - Enabling GitHub Pages for hosting a simple HTML file.
+   - Accessing the published page.
+
+5. **Open Source Exploration**:
+   - Exploring open-source projects on GitHub.
+   - Opening issues and contributing to projects.
