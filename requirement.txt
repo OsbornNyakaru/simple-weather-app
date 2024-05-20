@@ -1,0 +1,6 @@
+files in this repo
+- index.html
+- README file
+- script.js
+- style.css
+- tasks.txt
